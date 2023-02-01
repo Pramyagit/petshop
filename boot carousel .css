@@ -285,15 +285,20 @@ border:1px solid   rgb(222, 173, 12);
     .full-container{
         display: none;
     }
+      
+    .slide2{
+      width:100%;
+      display: flex;
+    
+    }
 .card2{
-    .card1{
+    
     display: flex;
     position: relative;
-   left:20%;
+   left:10%;
    top:0;
     /* width:100%; */
     /* border:none; */
-}
       }
       .card1{
     display: flex;
