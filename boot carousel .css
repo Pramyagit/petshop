@@ -286,20 +286,23 @@ border:1px solid   rgb(222, 173, 12);
         display: none;
     }
       
-    .slide2{
+   .slide2{
       width:100%;
       display: flex;
-    
+      position: relative;
+      margin-left:10px;
+      margin:auto;
     }
 .card2{
-    
     display: flex;
     position: relative;
-   left:10%;
+   left:10px;
+   margin:auto;
    top:0;
-    /* width:100%; */
+    width:100%;
+    
     /* border:none; */
-      }
+}
       .card1{
     display: flex;
     position: relative;
